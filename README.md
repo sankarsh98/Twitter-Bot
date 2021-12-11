@@ -1,3 +1,3 @@
 # Twitter Selenium Bot
 
-This bot logs in to your twitter account with your credentials and tweets for you. :smileyf: 
+This bot logs in to your twitter account with your credentials and tweets for you. :smiley: 
