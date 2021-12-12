@@ -2,7 +2,7 @@
 
 This bot logs in to your twitter account with your credentials and tweets for you. :smiley: 
 
-![Alt Text](https://media.giphy.com/media/6mSo7UDqSHTYkKfwUl/giphy.gif)
+![Alt Text](https://media.giphy.com/media/KWGpvn3MaJzHesJwvb/giphy.gif)
 
 
 
